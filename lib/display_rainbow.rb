@@ -8,8 +8,7 @@ def display_rainbow
   puts "Y: #{colors[3]}"
   puts "G: #{colors[4]}"
   puts "B: #{colors[5]}"
-  puts "I: #{colors[6]}"
-  puts "V:#{colors[7]}"
+  puts "I: #{colors[6]}", "V:#{colors[7]}"
 end
 
 display_rainbow
