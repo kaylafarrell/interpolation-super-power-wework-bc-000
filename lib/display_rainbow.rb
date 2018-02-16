@@ -12,3 +12,4 @@ def display_rainbow
   puts "V:"{colors[7]}
 end
 
+display_rainbow
